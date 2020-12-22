@@ -1,5 +1,5 @@
 # COVID-19 Live Dashboard using Power BI
-The data used in this dashboard is from Johns Hopkins University's Github Repository `COVID-19/csse_covid_19_data/csse_covid_19_time_series/`
+The data used in this dashboard is from John Hopkins University's Github Repository `COVID-19/csse_covid_19_data/csse_covid_19_time_series/`
 
 The Data in their repository gets updated everyday at 10:20 AM UTC+05:30
 
