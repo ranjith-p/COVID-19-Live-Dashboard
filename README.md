@@ -7,11 +7,11 @@ For building the dashboard following datasets were used:`time_series_covid19_con
 
 Raw file url of these datasets were used to source the data into Power BI dataflow which is scheduled to refresh everyday.
 
-Data Transformation was done using Power Query
+#### Data Transformation was done using Power Query
 
-All the datasets were transformed and merged together
+ #### All the datasets were transformed and merged together
 
-Following is the COVID-19 Live Dashboard:
+### Following is the COVID-19 Live Dashboard:
 
 ![alt text](https://github.com/ranjith-p/testing03/blob/master/page1.JPG?raw=true)
 ![alt text](https://github.com/ranjith-p/testing03/blob/master/page2.JPG?raw=true)
